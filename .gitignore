@@ -28,3 +28,9 @@ replay_pid*
 .classpath
 .settings/
 
+# Build output
+bin/
+target/
+build/
+
+
