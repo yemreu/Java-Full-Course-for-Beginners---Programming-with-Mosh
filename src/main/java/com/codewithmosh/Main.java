@@ -7,6 +7,8 @@ public class Main {
 		new Variables().main();
 		System.out.println("_________\n\nPrimitive Types");
 		new PrimitiveTypes().main();
+		System.out.println("_________\n\nReference Types");
+		new ReferenceTypes().main();
 	}
 
 }
