@@ -13,6 +13,8 @@ public class Main {
 		new PrimitiveTypesVsReferenceTypes().main();
 		System.out.println("_________\n\nStrings");
 		new Strings().main();
+		System.out.println("_________\n\nArrays");
+		new ArraysX().main();
 	}
 
 }
