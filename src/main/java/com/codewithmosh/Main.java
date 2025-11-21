@@ -10,7 +10,9 @@ public class Main {
 		System.out.println("_________\n\nReference Types");
 		new ReferenceTypes().main();
 		System.out.println("_________\n\nPrimitive Types vs. Reference Types");
-		new PrimitiveTypesVsReferenceTypes().main();;
+		new PrimitiveTypesVsReferenceTypes().main();
+		System.out.println("_________\n\nStrings");
+		new Strings().main();
 	}
 
 }
