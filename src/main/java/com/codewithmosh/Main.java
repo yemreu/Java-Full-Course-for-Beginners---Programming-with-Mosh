@@ -17,6 +17,8 @@ public class Main {
 		ArraysX.main();
 		System.out.println("_________\n\nConstants");
 		Constants.main();
+		System.out.println("_________\n\nArithmeticExpressions");
+		ArithmeticExpressions.main();
 	}
 
 }
