@@ -15,6 +15,8 @@ public class Main {
 		Strings.main();
 		System.out.println("_________\n\nArrays");
 		ArraysX.main();
+		System.out.println("_________\n\nConstants");
+		Constants.main();
 	}
 
 }
