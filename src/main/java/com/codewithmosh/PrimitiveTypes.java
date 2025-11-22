@@ -2,7 +2,7 @@ package com.codewithmosh;
 
 public class PrimitiveTypes {
 
-	public void main() {
+	public static void main() {
 		byte age = 30;
 		long viewsCount = 3_123_456_789L;
 		float price = 10.99f;

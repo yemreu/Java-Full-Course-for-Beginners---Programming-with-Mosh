@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ArraysX {
 
-	public void main() {
+	public static void main() {
 		int[] numbers = new int[5];
 		numbers[0] = 1;
 		numbers[1] = 2;

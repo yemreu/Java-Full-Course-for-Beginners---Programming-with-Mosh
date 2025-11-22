@@ -4,17 +4,17 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Variables");
-		new Variables().main();
+		Variables.main();
 		System.out.println("_________\n\nPrimitive Types");
-		new PrimitiveTypes().main();
+		PrimitiveTypes.main();
 		System.out.println("_________\n\nReference Types");
-		new ReferenceTypes().main();
+		ReferenceTypes.main();
 		System.out.println("_________\n\nPrimitive Types vs. Reference Types");
-		new PrimitiveTypesVsReferenceTypes().main();
+		PrimitiveTypesVsReferenceTypes.main();
 		System.out.println("_________\n\nStrings");
-		new Strings().main();
+		Strings.main();
 		System.out.println("_________\n\nArrays");
-		new ArraysX().main();
+		ArraysX.main();
 	}
 
 }

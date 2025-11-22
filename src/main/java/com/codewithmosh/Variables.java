@@ -2,7 +2,7 @@ package com.codewithmosh;
 
 public class Variables {
 
-	public void main() {
+	public static void main() {
 		int age = 30;
 		age = 35;
 		System.out.println(age);

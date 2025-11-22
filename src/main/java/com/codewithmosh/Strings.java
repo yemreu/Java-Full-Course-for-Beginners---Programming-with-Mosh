@@ -2,7 +2,7 @@ package com.codewithmosh;
 
 public class Strings {
 
-	public void main() {
+	public static void main() {
 		String message = "Hello World" + "!!";
 		System.out.println(message);
 		System.out.println(message.endsWith("!!"));
