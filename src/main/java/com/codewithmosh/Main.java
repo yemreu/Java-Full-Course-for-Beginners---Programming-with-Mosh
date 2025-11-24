@@ -19,6 +19,8 @@ public class Main {
 		Constants.main();
 		System.out.println("_________\n\nArithmeticExpressions");
 		ArithmeticExpressions.main();
+		System.out.println("_________\n\nCasting");
+		Casting.main();
 	}
 
 }
