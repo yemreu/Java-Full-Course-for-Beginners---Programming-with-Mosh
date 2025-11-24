@@ -27,6 +27,8 @@ public class Main {
 		FormattingNumbers.main();
 		System.out.println("_________\n\nReading Input");
 		ReadingInput.main();
+		System.out.println("_________\n\nMortgage Calculator");
+		MortgageCalculator.main();
 	}
 
 }
