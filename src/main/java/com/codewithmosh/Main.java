@@ -25,6 +25,8 @@ public class Main {
 		MathClass.main();
 		System.out.println("_________\n\nFormatting Numbers");
 		FormattingNumbers.main();
+		System.out.println("_________\n\nReading Input");
+		ReadingInput.main();
 	}
 
 }
