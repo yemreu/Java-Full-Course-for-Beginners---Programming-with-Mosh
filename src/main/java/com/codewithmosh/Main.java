@@ -21,6 +21,8 @@ public class Main {
 		ArithmeticExpressions.main();
 		System.out.println("_________\n\nCasting");
 		Casting.main();
+		System.out.println("_________\n\nMath Class");
+		MathClass.main();
 	}
 
 }
