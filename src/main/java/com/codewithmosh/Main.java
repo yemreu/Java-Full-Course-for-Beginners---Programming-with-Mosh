@@ -23,6 +23,8 @@ public class Main {
 		Casting.main();
 		System.out.println("_________\n\nMath Class");
 		MathClass.main();
+		System.out.println("_________\n\nFormatting Numbers");
+		FormattingNumbers.main();
 	}
 
 }
