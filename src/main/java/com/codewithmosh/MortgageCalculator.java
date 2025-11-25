@@ -21,5 +21,6 @@ public class MortgageCalculator {
 		double mortgage = principal * ((monthlyInterestRate * Math.pow(1 + monthlyInterestRate, numberOfPayments))
 				/ (Math.pow(1 + monthlyInterestRate, numberOfPayments) - 1));
 		System.out.println("Mortgage: " + NumberFormat.getCurrencyInstance().format(mortgage));
+		scanner.close();
 	}
 }

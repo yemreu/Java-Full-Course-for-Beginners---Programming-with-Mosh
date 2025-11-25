@@ -29,6 +29,8 @@ public class Main {
 		ReadingInput.main();
 		System.out.println("_________\n\nMortgage Calculator");
 		MortgageCalculator.main();
+		System.out.println("_________\n\nControl Flow");
+		ComparisonOperators.main();
 	}
 
 }

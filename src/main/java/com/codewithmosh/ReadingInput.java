@@ -13,5 +13,6 @@ public class ReadingInput {
 		System.out.print("Name : ");
 		String name = scanner.nextLine().trim();
 		System.out.println("You are " + name);
+		scanner.close();
 	}
 }
