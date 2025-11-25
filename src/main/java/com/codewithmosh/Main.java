@@ -33,6 +33,8 @@ public class Main {
 		ComparisonOperators.main();
 		System.out.println("_________\n\nLogical Operators");
 		LogicalOperators.main();
+		System.out.println("_________\n\nIf Statements");
+		IfStatements.main();
 	}
 
 }
