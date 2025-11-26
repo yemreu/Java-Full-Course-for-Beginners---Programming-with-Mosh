@@ -1,6 +1,6 @@
 package com.codewithmosh;
 
-public class IfStatements {
+public class IfStatement {
 
 	public static void main() {
 		int temp = 21;
