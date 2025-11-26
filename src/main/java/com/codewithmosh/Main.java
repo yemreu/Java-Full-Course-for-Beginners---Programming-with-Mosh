@@ -39,6 +39,8 @@ public class Main {
 		TernaryOperator.main();
 		System.out.println("_________\n\nSwitch Statement");
 		SwitchStatement.main();
+		System.out.println("_________\n\nFizz Buzz");
+		FizzBuzz.main();
 	}
 
 }
