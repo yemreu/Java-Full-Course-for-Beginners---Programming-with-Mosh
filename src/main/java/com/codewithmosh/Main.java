@@ -41,8 +41,10 @@ public class Main {
 		SwitchStatement.main();
 		System.out.println("_________\n\nFizz Buzz");
 		FizzBuzz.main();
-		System.out.println("_________\n\nFor Loops");
+		System.out.println("_________\n\nFor Loop");
 		ForLoop.main();
+		System.out.println("_________\n\nWhile Loop");
+		WhileLoop.main();
 	}
 
 }
