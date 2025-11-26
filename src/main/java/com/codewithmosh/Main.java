@@ -45,6 +45,8 @@ public class Main {
 		ForLoop.main();
 		System.out.println("_________\n\nWhile Loop");
 		WhileLoop.main();
+		System.out.println("_________\n\nDo-While Loop");
+		DoWhileLoop.main();
 	}
 
 }
