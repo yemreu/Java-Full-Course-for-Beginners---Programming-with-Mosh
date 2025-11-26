@@ -47,6 +47,8 @@ public class Main {
 		WhileLoop.main();
 		System.out.println("_________\n\nDo-While Loop");
 		DoWhileLoop.main();
+		System.out.println("_________\n\nBreak And Continue");
+		BreakAndContinue.main();
 	}
 
 }
