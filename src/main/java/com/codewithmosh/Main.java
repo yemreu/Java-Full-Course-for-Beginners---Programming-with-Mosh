@@ -41,6 +41,8 @@ public class Main {
 		SwitchStatement.main();
 		System.out.println("_________\n\nFizz Buzz");
 		FizzBuzz.main();
+		System.out.println("_________\n\nFor Loops");
+		ForLoop.main();
 	}
 
 }

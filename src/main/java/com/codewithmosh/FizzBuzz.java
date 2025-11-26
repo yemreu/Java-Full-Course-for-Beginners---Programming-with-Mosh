@@ -13,8 +13,7 @@ public class FizzBuzz {
 			System.out.println("Fizz");
 		} else if (number % 3 == 0) {
 			System.out.println("Buzz");
-		} else
-		{
+		} else {
 			System.out.println(number);
 		}
 		scanner.close();
