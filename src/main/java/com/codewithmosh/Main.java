@@ -49,6 +49,8 @@ public class Main {
 		DoWhileLoop.main();
 		System.out.println("_________\n\nBreak And Continue");
 		BreakAndContinue.main();
+		System.out.println("_________\n\nFor-Each Loop");
+		ForEachLoop.main();
 	}
 
 }
