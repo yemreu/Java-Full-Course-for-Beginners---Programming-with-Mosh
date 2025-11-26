@@ -37,6 +37,8 @@ public class Main {
 		IfStatement.main();
 		System.out.println("_________\n\nTernary Operator");
 		TernaryOperator.main();
+		System.out.println("_________\n\nSwitch Statement");
+		SwitchStatement.main();
 	}
 
 }
