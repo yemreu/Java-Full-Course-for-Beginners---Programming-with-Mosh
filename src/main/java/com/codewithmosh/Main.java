@@ -35,6 +35,8 @@ public class Main {
 		LogicalOperators.main();
 		System.out.println("_________\n\nIf Statements");
 		IfStatements.main();
+		System.out.println("_________\n\nTernary Operator");
+		TernaryOperator.main();
 	}
 
 }
